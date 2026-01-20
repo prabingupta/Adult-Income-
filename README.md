@@ -13,7 +13,7 @@ https://huggingface.co/datasets/ETdanR/adult_income
 
 Target classes:
 - <=50K
-- >50K
+- >=50K
 
 ---
 
